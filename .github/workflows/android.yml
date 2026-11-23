@@ -1,5 +1,6 @@
-
-
+name permissions: permissions:
+  step java
+run-name: apk lado AI
 name: Build Lado AI APK
 
 on:
